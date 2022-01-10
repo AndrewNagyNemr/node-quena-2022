@@ -25,11 +25,11 @@ app.post("/users", (req, res) => {
     res.json(users);
 })
 
-app.delete("/users/:id", (req, res)=>{
+app.delete("/users/:id", (req, res) => {
 
 });
 
-app.put("/users/:id", (req, res)=>{
+app.put("/users/:id", (req, res) => {
 
 })
 
